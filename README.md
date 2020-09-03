@@ -6,7 +6,7 @@ Features:
 * Click on ADD FOOD button to add a new food item
 
 Emulator ScreenShots:
-![screenshot1](https://github.com/jessicajqsong/AndroidDinnerDecider/blob/master/img/Screenshot_1599079773.png?raw=true)
-![screenshot1](https://github.com/jessicajqsong/AndroidDinnerDecider/blob/master/img/Screenshot_1599079786.png?raw=true)
+<img src="https://github.com/jessicajqsong/AndroidDinnerDecider/blob/master/img/Screenshot_1599079773.png" height="512" width="288">
+<img src="https://github.com/jessicajqsong/AndroidDinnerDecider/blob/master/img/Screenshot_1599079786.png" height="512" width="288">
 
 Sept. 2020
